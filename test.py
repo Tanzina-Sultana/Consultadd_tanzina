@@ -33,3 +33,4 @@ for x in str:
     else:
         count[x] = 1
 print(count)
+print("Hello world")
